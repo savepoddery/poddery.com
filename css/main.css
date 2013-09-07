@@ -95,9 +95,12 @@ textarea {
 
 header{
     background-color: #000000;
+    padding: 70px 0 60px 0;
+    border-bottom: 5px solid #428BCA;
 }
-
-
+header button{
+    margin: 5px;
+}
 
 
 
