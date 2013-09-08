@@ -101,7 +101,15 @@ header{
 header button{
     margin: 5px;
 }
-
+#home-boxes{
+    margin-top: 30px;
+}
+#home-boxes i{
+    font-size: 90px;
+}
+#home-boxes p{
+    font-size: 14px;
+}
 
 
 
