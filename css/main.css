@@ -103,17 +103,17 @@ p{
     font-size: 14px;
 }
 
-header{
+.header{
     background-color: #000000;
-    padding: 70px 0 60px 0;
-    /*border-bottom: 5px solid #428BCA;*/
-}
-header button{
-    margin: 5px;
+    padding-top: 70px;
+	padding-bottom: 10px;
 }
 .centered{
     margin-left: auto;
     margin-right: auto;
+}
+.login-links {
+	margin: 25px 0;
 }
 #band{
     background-color: #428BCA;
@@ -128,13 +128,13 @@ header button{
     margin-bottom: 45px;
 }
 #home-boxes i{
-    font-size: 90px;
+    font-size: 150px;
+	margin: 15px 0;
 }
 #save-poddery-campaign{
     font-size: 14px;
     margin: 40px auto 60px auto;
 }
-
 .supporter-logo{
     height: 250px;
     width: 250px;
@@ -177,12 +177,6 @@ section button{
     margin-top: 5px;
     margin-bottom: 5px;
 }
-
-
-
-
-
-
 
 
 /* ==========================================================================
