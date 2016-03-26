@@ -1,3 +1,1 @@
-Landing page for poddery.com
-
-https://poddery.com/
+ Moved to https://git.fosscommunity.in/community/poddery.com
